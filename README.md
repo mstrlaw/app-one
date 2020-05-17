@@ -1,24 +1,12 @@
 # app-one
+> A Vue micro frontend app to be loaded by the Orchestrator app
 
-## Project setup
-```
-npm install
-```
+### Install dependencies
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+```npm i```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Run app
 
-### Lints and fixes files
-```
-npm run lint
-```
+```npm run serve```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+App bundle is accessible at `http://localhost:8080/app.js`
